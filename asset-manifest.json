@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/allatonce/static/css/main.1d0c8e7d.css",
-    "main.js": "/allatonce/static/js/main.5a69605a.js",
+    "main.js": "/allatonce/static/js/main.c9ea3d54.js",
     "static/js/453.0be95558.chunk.js": "/allatonce/static/js/453.0be95558.chunk.js",
     "index.html": "/allatonce/index.html",
     "main.1d0c8e7d.css.map": "/allatonce/static/css/main.1d0c8e7d.css.map",
-    "main.5a69605a.js.map": "/allatonce/static/js/main.5a69605a.js.map",
+    "main.c9ea3d54.js.map": "/allatonce/static/js/main.c9ea3d54.js.map",
     "453.0be95558.chunk.js.map": "/allatonce/static/js/453.0be95558.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1d0c8e7d.css",
-    "static/js/main.5a69605a.js"
+    "static/js/main.c9ea3d54.js"
   ]
 }
